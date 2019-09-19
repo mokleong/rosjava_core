@@ -14,7 +14,6 @@
   <build_depend>rosjava_bootstrap</build_depend>
   <build_depend>geometry_msgs</build_depend>
   <build_depend>nav_msgs</build_depend>
-  <build_depend>rosjava_test_msgs</build_depend>
   <build_depend>rosgraph_msgs</build_depend>
   <build_depend>sensor_msgs</build_depend>
   <build_depend>tf2_msgs</build_depend>

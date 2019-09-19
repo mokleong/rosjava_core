@@ -13,7 +13,6 @@ find_package(catkin REQUIRED
     rosjava_build_tools
     geometry_msgs
     nav_msgs
-    rosjava_test_msgs
     rosgraph_msgs
     sensor_msgs
     tf2_msgs
